@@ -1,7 +1,7 @@
 ##                      Hi👋,i'm Gagan A J
 
-# 
-      I am  A J<br>I'm currently in a Electronics and communication engineering undergraduate<br>Check my resume here -<br>Reach out me at -   gaganaj45@gmail.com<br>  
+##
+      <br>I'm currently in a Electronics and communication engineering undergraduate<br>Check my resume here -<br>Reach out me at -   gaganaj45@gmail.com<br>  
 
 
 ## 🌐 Socials:
@@ -14,8 +14,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=GaganAJ-45&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaganAJ-45&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GaganAJ-45&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GaganAJ-45&limit=5&theme=prussian&combine_all_yearly_contributions=true)
@@ -23,4 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=GaganAJ-45&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
