@@ -1,7 +1,7 @@
 ##                      Hi👋,i'm Gagan A J
 
 ##
-      Final Year Electronics and communication engineering 
+      Final Year Electronics and communication engineer Student
 
 
 ## 🌐 Socials:
