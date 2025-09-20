@@ -1,7 +1,7 @@
 ##                      Hi👋,i'm Gagan A J
 
 ##
-      <br>I'm currently in a Electronics and communication engineering undergraduate<br>Check my resume here -<br>Reach out me at -   gaganaj45@gmail.com<br>  
+      Final Year Electronics and communication engineering 
 
 
 ## 🌐 Socials:
