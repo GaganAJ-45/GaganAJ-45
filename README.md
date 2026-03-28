@@ -1,7 +1,6 @@
 ##                      Hi👋,i'm Gagan A J
 
-##
-      **Just Another Problem Solver**
+## **Just Another Problem Solver**
 
 
 ## 🌐 Socials:
