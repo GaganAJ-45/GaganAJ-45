@@ -2,7 +2,7 @@
 
 ## 
 
-                            Just Another Problem Solver
+                        Just Another Problem Solver
 
 
 ## 🌐 Socials:
