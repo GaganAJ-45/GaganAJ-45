@@ -86,3 +86,5 @@ Built a Python CLI tool that automates trading strategies on Binance Futures Tes
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=GaganAJ-45&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
 ---
+
+
