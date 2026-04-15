@@ -35,7 +35,7 @@ I'm a fresher developer based in Bengaluru with hands-on experience in data anal
 ## 🤖 AI & Automation
 [![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/) [![Claude](https://img.shields.io/badge/Claude-181818?style=flat-square&logo=anthropic&logoColor=white)](https://claude.ai/) [![HuskyVoice](https://img.shields.io/badge/HuskyVoice-4A90E2?style=flat-square&logo=voice&logoColor=white)](https://www.husky.ai/) [![Retell AI](https://img.shields.io/badge/Retell_AI-FF6B6B?style=flat-square&logo=ai&logoColor=white)](https://retellai.com/) [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/) [![Tabbly](https://img.shields.io/badge/Tabbly-4285F4?style=flat-square&logo=google&logoColor=white)](https://tabbly.com/) [![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=rocket&logoColor=white)](https://antigravity.com/) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/) [![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/blog/openai-codex) [![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.sh/)
 
----
+
 ## 🗂️ Featured Projects
 
 ### 🌟 [Aurora Roastery](https://github.com/GaganAJ-45/aurora-roastery)
