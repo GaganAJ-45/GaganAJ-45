@@ -78,7 +78,7 @@ Built a Python CLI tool that automates trading strategies on Binance Futures Tes
 
 </div>
 
----
+
 
 ## 🔝 Top Repositories
 
