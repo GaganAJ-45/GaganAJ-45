@@ -80,9 +80,40 @@ Built a Python CLI tool that automates trading strategies on Binance Futures Tes
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🔝 Top Repositories
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=GaganAJ-45&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+<div align="center">
+
+[![Repos](https://img.shields.io/badge/View%20All%20Repos-GitHub-181717?style=flat-square&logo=github)](https://github.com/GaganAJ-45?tab=repositories)
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🌟 <a href="https://github.com/GaganAJ-45/aurora-roastery">Aurora Roastery</a></h3>
+      <p>Full-stack e-commerce platform with Claude AI-powered mood-based recommendations</p>
+      <p><strong>Stack:</strong> Next.js 14 · TypeScript · Prisma · PostgreSQL · Claude API</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🤖 <a href="https://github.com/GaganAJ-45/Binance-Trading-Bot">Binance Trading Bot</a></h3>
+      <p>Python CLI tool for automated trading on Binance Futures Testnet</p>
+      <p><strong>Stack:</strong> Python · python-binance · Click</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>💼 <a href="https://gaganaj-45.github.io/gaganaj-portfolio-v2/">Portfolio Website</a></h3>
+      <p>SEO-optimized personal portfolio showcasing projects and skills</p>
+      <p><strong>Stack:</strong> HTML · CSS · JavaScript · SEO</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>👨‍💻 <a href="https://github.com/GaganAJ-45">All Projects</a></h3>
+      <p>Explore more repositories and contributions on GitHub</p>
+      <p><strong>View my complete repository collection</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
